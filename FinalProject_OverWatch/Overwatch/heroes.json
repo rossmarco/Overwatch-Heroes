@@ -1,0 +1,214 @@
+{
+  "heroes" : [
+    {
+      "name" : "D.Va",
+      "bio" : "D.Va’s mech is nimble and powerful—its twin Fusion Cannons blast away with autofire at short range, and she can use its Boosters to barrel over enemies and obstacles, or deflect attacks with her projectile-dismantling Defense Matrix.",
+      "image" : "dva_icon",
+      "heroClass": "Tank",
+      "details" : [
+          {"title" : "FUSION CANNONS",
+          "image" : "FUSION CANNONS",
+          "info" : "D.Va's mech is equipped with twin short-range rotating cannons. They lay down continuous, high-damage fire without needing to reload, but slow D.Va’s movement while they’re active." },
+          {"title" : "LIGHT GUN",
+          "image" : "LIGHT GUN",
+          "info" : "While outside of her mech, D.Va can continue the fight with a mid-range automatic blaster." },
+          {"title" : "BOOSTERS",
+          "image" : "BOOSTERS",
+          "info" : "D.Va’s mech launches into the air, her momentum carrying her forward. She can turn and change directions or barrel through her enemies, knocking them back." },
+          {"title" : "DEFENSE MATRIX",
+          "image" : "DEFENSE MATRIX",
+          "info" : "D.Va can activate this forward-facing targeting array to shoot incoming projectiles out of the air." },
+          {"title" : "SELF-DESTRUCT",
+          "image" : "SELF-DESTRUCT",
+          "info" : "D.Va ejects from her mech and sets its reactor to explode, dealing massive damage to nearby opponents." },
+          {"title" : "CALL MECH",
+          "image" : "CALL MECH",
+          "info" : "If her armored battle suit is destroyed, D.Va can call down a fresh mech and return to the fray." }
+      ]
+    },
+    {
+    "name" : "Hanzo",
+    "bio" : "Hanzo’s versatile arrows can reveal his enemies or fragment to strike multiple targets. He can scale walls to fire his bow from on high, or summon a titanic spirit dragon.",
+    "image" : "hanzo_icon",
+    "heroClass": "Support",
+    "details" : [
+        {"title" : "STORM BOW",
+        "image" : "STORM BOW",
+        "info" : "Hanzo nocks and fires an arrow at his target."},
+        {"title" : "SONIC ARROW",
+        "image" : "SONIC ARROW",
+        "info" : "Hanzo launches an arrow that contains a sonar tracking device. Any enemy within its detection radius is visibly marked, making them easier for Hanzo and his allies to hunt down."},
+        {"title" : "SCATTER ARROW",
+        "image" : "SCATTER ARROW",
+        "info" : "Hanzo shoots a fragmenting arrow that ricochets off walls and objects and can strike multiple targets at once."},
+        {"title" : "DRAGONSTRIKE",
+        "image" : "DRAGONSTRIKE",
+        "info" : "Hanzo summons a Spirit Dragon which travels through the air in a line. It passes through walls in its way, devouring any enemies it encounters."}
+          ]
+    },
+    {
+      "name" : "Lucio",
+      "bio" : "On the battlefield, Lúcio’s cutting-edge Sonic Amplifier buffets enemies with projectiles and knocks foes back with blasts of sound. His songs can both heal his team or boost their movement speed, and he can switch between tracks on the fly.",
+      "image" : "lucio_icon",
+      "heroClass": "Support",
+      "details" : [
+      {"title" : "SONIC AMPLIFIER",
+      "image" : "SONIC AMPLIFIER",
+      "info" : "Lúcio can hit his enemies with sonic projectiles or knock them back with a blast of sound."},
+      {"title" : "CROSSFADE",
+      "image" : "CROSSFADE",
+      "info" : "Lúcio continuously energizes himself—and nearby teammates—with music. He can switch between two songs: one amplifies movement speed, while the other regenerates health."},
+      {"title" : "AMP IT UP",
+      "image" : "AMP IT UP",
+      "info" : "Lúcio increases the volume on his speakers, boosting the effects of his songs."},
+      {"title" : "SOUND BARRIER",
+      "image" : "SOUND BARRIER",
+      "info" : "Protective waves radiate out from Lúcio’s Sonic Amplifier, briefly providing him and nearby allies with personal shields."}
+         ]
+    },
+              {
+              "name" : "Mei",
+              "bio" : "Mei’s weather-altering devices slow opponents and protect locations. Her Endothermic Blaster unleashes damaging icicles and frost streams, and she can Cryo-Freeze herself to guard against counterattacks, or obstruct the opposing team's movements with an Ice Wall.",
+              "image" : "mei_icon",
+              "heroClass": "Support",
+              "details" : [
+                           {"title" : "ENDOTHERMIC BLASTER",
+                           "image" : "ENDOTHERMIC BLASTER",
+                           "info" : "Mei’s blaster unleashes a concentrated, short-range stream of frost that damages, slows, and ultimately freezes enemies in place. Mei can also use her blaster to shoot icicle-like projectiles at medium range."},
+                           {"title" : "CRYO-FREEZE",
+                           "image" : "CRYO-FREEZE",
+                           "info" : "Mei instantly surrounds herself with a block of thick ice. She heals and ignores damage while encased, but cannot move or use abilities."},
+                           {"title" : "ICE WALL",
+                           "image" : "ICE WALL",
+                           "info" : "Mei generates an enormous ice wall that obstructs lines of sight, stops movement, and blocks attacks."},
+                           {"title" : "BLIZZARD",
+                           "image" : "BLIZZARD",
+                           "info" : "Mei deploys a weather-modification drone that emits gusts of wind and snow in a wide area. Enemies caught in the blizzard are slowed and take damage; those who linger too long are frozen solid."}
+                           ]
+              },
+              {
+              "name" : "Pharah",
+              "bio" : "Soaring through the air in her combat armor, and armed with a launcher that lays down high-explosive rockets, Pharah is a force to be reckoned with.",
+              "image" : "pharah_icon",
+              "heroClass": "Offense",
+              "details" : [
+                           {"title" : "ROCKET LAUNCHER",
+                           "image" : "ROCKET LAUNCHER",
+                           "info" : "Pharah’s primary weapon launches rockets that deal significant damage in a wide blast radius."},
+                           {"title" : "JUMP JET",
+                           "image" : "JUMP JET",
+                           "info" : "Pharah’s primary weapon launches rockets that deal significant damage in a wide blast radius."},
+                           {"title" : "CONCUSSIVE BLAST",
+                           "image" : "CONCUSSIVE BLAST",
+                           "info" : "Pharah’s primary weapon launches rockets that deal significant damage in a wide blast radius."},
+                           {"title" : "BARRAGE",
+                           "image" : "BARRAGE",
+                           "info" : "Pharah’s primary weapon launches rockets that deal significant damage in a wide blast radius."}
+                           ]
+              },
+              {
+              "name" : "Reinhardt",
+              "bio" : "Clad in powered armor and swinging his hammer, Reinhardt leads a rocket-propelled charge across the battleground and defends his squadmates with a massive energy barrier.",
+              "image" : "reinhardt_icon",
+              "heroClass": "Tank",
+              "details" : [
+                           {"title" : "ROCKET HAMMER",
+                           "image" : "ROCKET HAMMER",
+                           "info" : "Reinhardt’s Rocket Hammer is an exemplary melee weapon, able to deal punishing damage in a wide arc with every swing."},
+                           {"title" : "BARRIER FIELD",
+                           "image" : "BARRIER FIELD",
+                           "info" : "Reinhardt projects a broad, forward-facing energy barrier, which can absorb substantial damage before it is destroyed. Though Reinhardt can protect himself and his companions behind the barrier, he cannot attack while sustaining it."},
+                           {"title" : "CHARGE",
+                           "image" : "CHARGE",
+                           "info" : "Reinhardt charges forth in a straight line, pinning the first enemy in his path and knocking others aside. If he collides with a wall, the foe he’s carrying suffers extreme damage."},
+                           {"title" : "FIRE STRIKE",
+                           "image" : "FIRE STRIKE",
+                           "info" : "By whipping his Rocket Hammer forward, Reinhardt slings a flaming projectile which pierces and damages any enemies it touches."},
+                           {"title" : "EARTH SHATTER",
+                           "image" : "EARTH SHATTER",
+                           "info" : "Reinhardt forcefully slams his Rocket Hammer into the ground, knocking down and damaging all enemies in front of him."}
+                           ]
+              },
+              {
+              "name" : "Symmetra",
+              "bio" : "Symmetra utilizes her light-bending Photon Projector to dispatch adversaries, shield her associates, construct teleportation pads and deploy particle-blasting Sentry Turrets.",
+              "image" : "symmetra_icon",
+              "heroClass": "Support",
+              "details" : [
+                           {"title" : "PHOTON PROJECTOR",
+                           "image" : "PHOTON PROJECTOR",
+                           "info" : "Symmetra’s weapon emits a short-range beam that homes in on a nearby enemy, dealing continuous damage that increases the longer it is connected. The projector can also release a charged energy ball that deals high damage."},
+                           {"title" : "SENTRY TURRET",
+                           "image" : "SENTRY TURRET",
+                           "info" : "Symmetra sets up a small turret that automatically fires speed-reducing blasts at the nearest enemy within range. Several turrets can be built on the battlefield at once."},
+                           {"title" : "PHOTON SHIELD",
+                           "image" : "PHOTON SHIELD",
+                           "info" : "Symmetra surrounds an ally with a hard-light shield that absorbs damage and persists as long as that ally remains alive."},
+                           {"title" : "TELEPORTER",
+                           "image" : "TELEPORTER",
+                           "info" : "Symmetra surrounds an ally with a hard-light shield that absorbs damage and persists as long as that ally remains alive."}
+                           ]
+              },
+    {
+      "name" : "Tracer",
+               "bio" : "Toting twin pulse pistols, energy-based time bombs, and rapid-fire banter, Tracer is able to blink through space and rewind her personal timeline as she battles to right wrongs the world over.",
+      "image" : "tracer_icon",
+              "heroClass": "Support",
+      "details" : [
+          {"title" : "PULSE PISTOLS",
+          "image" : "PULSE PISTOLS",
+          "info" : "Tracer rapid-fires both of her pistols."},
+          {"title" : "BLINK",
+          "image" : "BLINK",
+          "info" : "Tracer zips horizontally through space in the direction she’s moving, and reappears several yards away. She stores up to three charges of the blink ability and generates more every few seconds."},
+          {"title" : "RECALL",
+          "image" : "RECALL",
+          "info" : "Tracer bounds backward in time, returning her health, ammo and position on the map to precisely where they were a few seconds before."},
+          {"title" : "PULSE BOMB",
+          "image" : "PULSE BOMB",
+          "info" : "Tracer lobs a large bomb that adheres to any surface or unfortunate opponent it lands on. After a brief delay, the bomb explodes, dealing high damage to all enemies within its blast radius."}
+      ]
+    },
+              {
+              "name" : "Winston",
+              "bio" : "Winston wields impressive inventions—a jump pack, electricity-blasting Tesla Cannon, portable shield projector and more—with literal gorilla strength.",
+              "image" : "winston_icon",
+              "heroClass": "Support",
+              "details" : [
+                           {"title" : "TESLA CANNON",
+                           "image" : "TESLA CANNON",
+                           "info" : "Winston’s weapon fires a short-range electric barrage for as long as he holds down the trigger."},
+                           {"title" : "JUMP PACK",
+                           "image" : "JUMP PACK",
+                           "info" : "Assisted by his energy pack, Winston lunges through the air, dealing significant damage and staggering nearby enemies when he lands."},
+                           {"title" : "BARRIER PROJECTOR",
+                           "image" : "BARRIER PROJECTOR",
+                           "info" : "Winston’s barrier projector extends a bubble-shaped field that absorbs damage until it's destroyed. Allies protected by the barrier can return fire from within it."},
+                           {"title" : "PRIMAL RAGE",
+                           "image" : "PRIMAL RAGE",
+                           "info" : "Winston embraces his animal nature, significantly boosting his health and making him very difficult to kill, strengthening his melee attack, and allowing him to use his Jump Pack ability more frequently. While raging, Winston can only make melee and Jump Pack attacks."}
+                           ]
+              },
+              {
+              "name" : "Zenyatta",
+              "bio" : "Zenyatta calls upon orbs of harmony and discord to heal his teammates and weaken his opponents, all while pursuing a transcendent state of immunity to damage.",
+              "image" : "zenyatta_icon",
+              "heroClass": "Support",
+              "details" : [
+                           {"title" : "ORB OF DESTRUCTION",
+                           "image" : "ORB OF DESTRUCTION",
+                           "info" : "Zenyatta projects his destructive energy orbs either individually, or in a rapid-fire volley after a few seconds spent gathering power."},
+                           {"title" : "ORB OF HARMONY",
+                           "image" : "ORB OF HARMONY",
+                           "info" : "Zenyatta casts an orb over the shoulder of a targeted ally. So long as Zenyatta maintains line of sight, the orb slowly restores health to his ally. Only one ally can receive the orb's benefit at a time."},
+                           {"title" : "ORB OF DISCORD",
+                           "image" : "ORB OF DISCORD",
+                           "info" : "Attaching the orb of discord to an opponent amplifies the amount of damage they receive for as long as Zenyatta maintains line of sight. Only one opponent can suffer the orb's effects at a time."},
+                           {"title" : "TRANSCENDENCE",
+                           "image" : "TRANSCENDENCE",
+                           "info" : "Zenyatta enters a state of heightened existence for a short period of time. While transcendent, Zenyatta cannot use abilities or weapons, but is immune to damage and automatically restores his health and that of nearby allies."}
+                           ]
+              }
+
+  ]
+}
